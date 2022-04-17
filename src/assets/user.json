@@ -1,0 +1,269 @@
+[
+    {
+        "StateCode": "GJ",
+        "StateName": "Gujarat",
+        "UserName": "GJ-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+    {
+        "StateCode": "UP",
+        "StateName": "Uttar Pradesh",
+        "UserName": "UP-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+    {
+        "StateCode": "BR",
+        "StateName": "Bihar",
+        "UserName": "BR-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+    {
+        "StateCode": "CH",
+        "StateName": "Chandigarh",
+        "UserName": "CH-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "DL",
+        "StateName": "Delhi",
+        "UserName": "DL-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "TG",
+        "StateName": "Telangana",
+        "UserName": "TG-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "MH",
+        "StateName": "Maharashtra",
+        "UserName": "MH-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "OR",
+        "StateName": "Odisha",
+        "UserName": "OR-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "AP",
+        "StateName": "Andhra Pradesh",
+        "UserName": "AP-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "KL",
+        "StateName": "Kerala",
+        "UserName": "KL-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "MP",
+        "StateName": "Madhya Pradesh",
+        "UserName": "MP-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "HP",
+        "StateName": "Himachal Pradesh",
+        "UserName": "HP-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "HR",
+        "StateName": "Haryana",
+        "UserName": "HR-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "KA",
+        "StateName": "Karnataka",
+        "UserName": "KA-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "RJ",
+        "StateName": "Rajasthan",
+        "UserName": "RJ-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "ML",
+        "StateName": "Meghalaya",
+        "UserName": "ML-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "WB",
+        "StateName": "West Bengal",
+        "UserName": "WB-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "JK",
+        "StateName": "Jammu And Kashmir",
+        "UserName": "JK-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "TN",
+        "StateName": "Tamil Nadu",
+        "UserName": "TN-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "MN",
+        "StateName": "Manipur",
+        "UserName": "MN-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "AS",
+        "StateName": "Assam",
+        "UserName": "AS-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "PB",
+        "StateName": "Punjab",
+        "UserName": "PB-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "CT",
+        "StateName": "Chhattisgarh",
+        "UserName": "CT-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "GA",
+        "StateName": "Goa",
+        "UserName": "GA-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "JH",
+        "StateName": "Jharkhand",
+        "UserName": "JH-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "NL",
+        "StateName": "Nagaland",
+        "UserName": "NL-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "TR",
+        "StateName": "Tripura",
+        "UserName": "TR-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "AR",
+        "StateName": "Arunachal Pradesh",
+        "UserName": "AR-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "SK",
+        "StateName": "Sikkim",
+        "UserName": "SK-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "PY",
+        "StateName": "Puducherry",
+        "UserName": "PY-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "DN",
+        "StateName": "Dadra and Nagar Haveli and Daman and Diu",
+        "UserName": "DN-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "LA",
+        "StateName": "Ladakh",
+        "UserName": "LA-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "MZ",
+        "StateName": "Mizoram",
+        "UserName": "MZ-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "UK",
+        "StateName": "Uttarakhand",
+        "UserName": "UK-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "AN",
+        "StateName": "Andaman & Nicobar Islands",
+        "UserName": "AN-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "LD",
+        "StateName": "Lakshadweep",
+        "UserName": "LD-IGOT",
+        "Password": "Training@12",
+		"role": "state"
+    },
+	{
+        "StateCode": "",
+        "StateName": "",
+        "UserName": "TV-CHAMP",
+        "Password": "Tvchamp@12",
+		"role": "tvchamp"
+    },
+	{
+        "StateCode": "",
+        "StateName": "",
+        "UserName": "ADMIN-IGOT",
+        "Password": "Admin@12",
+		"role": "admin",
+		"DefaultState": "Delhi"
+    }
+]

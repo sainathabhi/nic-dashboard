@@ -1,0 +1,18 @@
+{
+  "/auth/*": {
+    "target": "https://karmayogi.nic.in",
+    "secure": false
+  },
+  "/api/*": {
+    "target": "https://karmayogi.nic.in",
+    "secure": false,
+    "changeOrigin": true,
+		"pathRewrite": {
+		  "/api": "/api"
+		},
+
+  "headers": {
+    "Cookie": "connect.sid=s%3AfvmcVXjpWTDL0ENx5JySFVGlHO91kJZq.9ckVbrvp7c8RroU862WsyYcToEB1%2BheTO6y1LlPdajQ"
+  }
+}
+}

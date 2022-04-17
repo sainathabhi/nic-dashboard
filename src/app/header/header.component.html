@@ -1,0 +1,102 @@
+
+  <section class="home-section">
+    <nav>
+      <div class="sidebar-button">
+        <i class='bx bx-menu sidebarBtn'></i>
+        <a routerLink="/dashboard"><img src="assets/imgs/background/iGOT_Logo.png" style="margin-right: 10%">
+       </a>
+      </div>
+
+      <div class="search-box" *ngIf="role=='admin' || role=='state'" >
+        <div class="dropdown" style="padding: 0px 25px">
+          <span class="dropbtn" style="cursor:pointer">Courses</span>
+          <div class="dropdown-content">
+            <a routerLink="/dashboard/batch">Statistics</a>
+            <a routerLink="/dashboard/ProfesionalReport">Summary</a>
+            <a routerLink="/dashboard/CoursesDrillDown">TimeDrillDown Report</a>
+          </div>
+        </div>
+
+        <!-- <div class="dropdown">
+          <span class="dropbtn" style="cursor:pointer">Assement</span>
+          <div class="dropdown-content">
+            <a routerLink="#">Assement Report One</a>
+            <a routerLink="#">Assement Report Two</a>
+          </div>
+        </div> -->
+        <div class="dropdown">
+          <span class="dropbtn" style="cursor:pointer">State</span>
+          <div class="dropdown-content">
+            <a routerLink="/dashboard/Statewisebatch">Batch Report</a>
+            <a routerLink="/dashboard/StatewiseCategory">Category Report</a>
+            <a routerLink="/dashboard/StateDrillDownReport">TimeDrillDown Report</a>
+
+            <a *ngIf="statename!=''" routerLink="/dashboard/StateLeadershipReport">Leadership Report</a>
+          </div>
+        </div>
+
+        <div class="dropdown">
+          <span class="dropbtn" style="cursor:pointer; padding: 20px;">iGOT Report</span>
+          <div class="dropdown-content">
+            <a routerLink="/dashboard/CategoryReport">iGOT Training Report</a>
+            <a routerLink="/dashboard/SecCategoryReport">Category Wise Report</a>
+            <a routerLink="/dashboard/Categorywisebatch">Category Wise Batch Report</a>
+            <a routerLink="/dashboard/ThirdCategoryReport">User Type Report</a>
+            <a routerLink="/dashboard/LeaderShipReport">Leadership Report</a>
+          </div>
+        </div>
+
+
+        <!-- <input type="text" placeholder="Search..."> -->
+        <!-- <i class='bx bx-search' ></i> -->
+      </div>
+
+
+      <div class="search-box" *ngIf="role=='tvchamp'" >
+        <div class="dropdown" style="padding: 0px 25px">
+          <span class="dropbtn" style="cursor:pointer">Courses</span>
+          <div class="dropdown-content">
+            <a routerLink="/dashboard/batch">Statistics</a>
+            <a routerLink="/dashboard/ProfesionalReport">Summary</a>
+            <a routerLink="/dashboard/BatchReport">Batch Report</a>
+            <a routerLink="/dashboard/CoursesDrillDown">TimeDrillDown Report</a>
+          </div>
+        </div>
+
+        <!-- <div class="dropdown">
+          <span class="dropbtn" style="cursor:pointer">Assement</span>
+          <div class="dropdown-content">
+            <a routerLink="#">Assement Report One</a>
+            <a routerLink="#">Assement Report Two</a>
+          </div>
+        </div> -->
+
+
+
+
+
+        <!-- <input type="text" placeholder="Search..."> -->
+        <!-- <i class='bx bx-search' ></i> -->
+      </div>
+
+
+     
+      <div class="profile-details" >
+      Welcome {{userName}}
+      </div>
+      <input type="hidden" value="{{userName}}" id="storestate">
+      <div class="profile-details" style="padding-left: 125px;">
+
+
+        <div class="dropdown">
+            <img src="assets/imgs/background/img_avatar.png" alt="Avatar" class="avatar" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+       
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+              <li><a class="dropdown-item" href="#">Action</a></li>
+              <li><a class="dropdown-item" href="#">Another action</a></li>
+              <li><a class="dropdown-item" href="#">Logout</a></li>
+            </ul>
+          </div>
+      </div>
+
+    </nav>
